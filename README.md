@@ -1,2 +1,3 @@
 # extra-things
-some extra things/ randomd small projects that I might do
+Some extra coding samples/ projects that I am working on/ have finished.
+Mostly for learning/practicing programming language(s)/frameworks.
